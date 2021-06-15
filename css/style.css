@@ -1,0 +1,105 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+header {
+    position: absolute;
+    font-family: Mulish;
+    color: gray;
+    left: 200px;
+    top: 20px;
+}
+
+header p {
+    color: gray;
+}
+
+.cabecalho {
+    font-size: 32px;
+}
+
+.descricaoPagina{
+    font-size: 20px;
+}
+
+.personagensAleatorios ul{
+    color: gray;
+    font-family: Arial, sans-serif;
+    position: absolute;
+    margin-top: 0px;
+    background: #FFFFFF;
+    border: 3px solid #02B2C9;
+    box-sizing: border-box;
+    border-radius: 8px;
+    text-align: center;
+    width: 550px;
+    height: 250px;
+}
+
+.primeiro {
+    top: 150px;
+    left: 200px;
+}
+
+.segundo {
+    top: 150px;
+    left: 780px;
+}
+
+.terceiro {
+    left: 200px;
+    top: 430px;
+}
+
+.quarto {
+    left: 780px;    
+    top: 430px;
+}
+
+.nome {
+    position: absolute;
+    top: 30px;
+    right: 5px;
+}
+
+.nomePersonagem{
+    position: absolute;
+    font-weight: bold;
+    top: 10px;
+    right: 5px;
+}
+
+.status {
+    position: absolute;
+    top: 85px;
+    right: 5px;
+}
+
+.statusPersonagem {
+    position: absolute;    
+    font-weight: bold;
+    top: 65px;
+    right: 5px;
+}
+
+.especie {
+    position: absolute;
+    top: 155px;
+    right: 5px;
+}
+
+.especiePersonagem {
+    position: absolute;
+    font-weight: bold;
+    top: 135px;
+    right: 5px;
+}
+
+#imagem {
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    border-radius: 2%;
+
+}

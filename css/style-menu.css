@@ -1,0 +1,47 @@
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.menu {
+    position: absolute;
+    left: 0px;
+    top: 0px;
+}
+
+.menu li {
+    text-decoration: none;
+    display: block;
+    padding: 22px 25px;
+    font-size: 28px;
+    line-height: 20px;
+    letter-spacing: 0.2px;
+    margin: 0px 0px 0px 0px;
+}
+
+#sortear {
+    font-family: 'Shadows Into Light', cursive;
+    color: black;
+    left: 200px;
+}
+
+.menu a {
+    color: black;
+
+}
+
+.menu li:hover {
+    background: #7BE770;
+    color: #E7E7E7;
+}
+
+nav.menu {
+    position: fixed;
+    width: 180px;
+    height: 100%;
+    background: #02B2C9;
+}
+
+.personagensAleatorios {
+    list-style: none;
+}
